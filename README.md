@@ -16,9 +16,10 @@ Hotel industry is a very volatile industry and the bookings depend on variety of
 
 To do the EDA of the dataset, we required following packages firstly imported to the notebook. This will help us to do code and get a clear picture of the data.
 The packages are:
-Numpy
-Pandas
-Matplotlib
-Seaborn
+
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
 
 
