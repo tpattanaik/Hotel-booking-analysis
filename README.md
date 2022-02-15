@@ -3,6 +3,13 @@ For this EDA Project, I have used Hotel booking dataset.
 This data set contains booking information for a city hotel and a resort hotel, and includes information
 such as when the booking was made, length of stay, the number of adults, children, and/or babies, and
 the number of available parking spaces, among other things.
+
+# Abstract
+
+Hotel booking dataset describes two datasets with hotel demand data. One of the hotel is a resort hotel and the other is a city hotel. Both datasets share the same structure, with 31 variables describing the 119390 observations represents a hotel booking. This dataset contain booking information such as when the booking was made, length of stay, the number of adults, children and/or babies, and the number of available parking space, among other things. 
+Our EDA can help us to explore and analyse the data to discover important factors that govern the bookings of a hotel.
+We will use different EDA concepts using Python and their packages, Matplotlib and seaborn to come up with various graphs and charts by using the dataset and get to some conclusion for our problem statement. 
+
 # Problem statement
 
 We need to explore and analyze the data to discover important factors that govern the bookings of a
