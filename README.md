@@ -43,9 +43,13 @@ We also have one more column with NaN Values i.e., country column with 488 NaN v
 **Some more methods used:**
 
 1. As there were only 2 types of hotels, we used a pie chart and looked at the distribution of the hotels. We can use bar chart also.
+
 2.For numerical variables, we used describe method to understand the distribution of number in terms of five number summary.
+
 3. When we want numerical values distribution by using graph, its better to use bar plot to get a clarity of the distribution.
+
 4.To see the price distribution, we used lineplot to see the variation of the price in a interval of time.
+
 5.We should always check atleast the head and tail of the dataset just to get a raw idea of the data.
 
 # Limitations
